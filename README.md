@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alvaro</h1>
+<h1 align="center">Hi 👋, I'm Álvaro</h1>
 <h3 align="center">Geospatial Software Engineer & Developer</h3>
 
 <!--
